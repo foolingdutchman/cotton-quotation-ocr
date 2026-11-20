@@ -4,6 +4,9 @@ description: 识别微信截图中的棉花质检报告（棉包组批信息汇�
 ---
 # 棉花质检报告图片OCR识别
 
+> GitHub: https://github.com/foolingdutchman/cotton-quotation-ocr
+> 其他项目使用: `git clone https://github.com/foolingdutchman/cotton-quotation-ocr.git ~/.hermes/skills/cotton-quotation-ocr`
+
 Use when: 用户需要从微信截图/棉花包组批信息汇总表中识别价格、质量数据并导出Excel。
 
 ## 图片特征
